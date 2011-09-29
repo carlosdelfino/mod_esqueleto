@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install
+  PUBLIC "-//Joomla! 1.5//DTD module 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/module-install.dtd">
 <install type="module" version="1.5.0">
 	<!-- Name of the Module -->
 	<name>Modulo Esqueleto</name>
-	<author>Carlos Delfino Carvalho Pinheiro</author>
 	<creationDate>2010-05-11</creationDate>
-	<copyright>All rights reserved by FullService.</copyright>
-	<license>GPL 2.0</license>
+	<author>Carlos Delfino Carvalho Pinheiro</author>
 	<authorEmail>consultoria@carlosdelfino.eti.br</authorEmail>
 	<authorUrl>www.carlosdelfino.eti.br</authorUrl>
+	<copyright>All rights reserved by FullService.</copyright>
+	<license>GPL 2.0</license>
 	<version>1.0.0</version>
 	<description>Demonstra a estrutura básica de criação de um Modulo.
 	</description>
@@ -21,6 +23,7 @@
 
 	<languages>
 		<language tag="en-GB">en-GB.mod_esqueleto.ini</language>
+		<language tag="pt-BR">pt-BR.mod_esqueleto.ini</language>
 	</languages>
 
 	<params>
