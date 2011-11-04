@@ -30,8 +30,7 @@
 		<param name="moduleclass_sfx" type="text" default=""
 			label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
 
-		<param name="@spacer" type="spacer" default="" label=""
-			description="" />
+		<param name="@spacer" type="spacer" label=""  />
 
 		<param name="otherparam" type="text" default="5" label="LABEL OTHER PARAM"
 			description="DESC OTHER PARAM" />

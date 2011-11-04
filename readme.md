@@ -1,0 +1,1 @@
+Este esqueleto de Modulo demonstra o básico de um modulo para Joomla
